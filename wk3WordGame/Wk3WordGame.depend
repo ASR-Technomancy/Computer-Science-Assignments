@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1497339500 source:c:\users\andrew\desktop\cpp projects 1\wk3wordgame\main.cpp
+	<iostream>
+	<string>
+
